@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563942841430",
+    "firebase_url": "https://test-bc297-default-rtdb.firebaseio.com",
+    "project_id": "test-bc297",
+    "storage_bucket": "test-bc297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563942841430:android:f0f824074a54bc9a52aff7",
+        "android_client_info": {
+          "package_name": "com.example.da3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563942841430-380agsgumcd400sb1n3vajk6lj1alm9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEiUktpkPP4pTQEC_ijsrfrL3q96oW_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563942841430-380agsgumcd400sb1n3vajk6lj1alm9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
